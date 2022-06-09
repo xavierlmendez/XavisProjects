@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{35CAFF74-5201-4707-9B15-F89397FFA214}"
+	ProjectSection(SolutionItems) = preProject
+		package.json = package.json
+		server.js = server.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "express", "express", "{09D50BCA-C90B-419F-9AF1-0AB9E95E378D}"
+	ProjectSection(SolutionItems) = preProject
+		express\index.html = express\index.html
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{09D50BCA-C90B-419F-9AF1-0AB9E95E378D} = {35CAFF74-5201-4707-9B15-F89397FFA214}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {610EDBB1-6264-4FBB-8F66-FB40C65022EE}
+	EndGlobalSection
+EndGlobal
